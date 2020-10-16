@@ -1,0 +1,19 @@
+{
+  "name": "teste-biblioteca",
+  "version": "1.0.0",
+  "description": "Esta é uma biblioteca de teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anotaaidev/teste-biblioteca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anotaaidev/teste-biblioteca/issues"
+  },
+  "homepage": "https://github.com/anotaaidev/teste-biblioteca#readme"
+}
